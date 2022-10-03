@@ -11,7 +11,6 @@ saved
 
 Donovan Bake
 
-<<<<<<< HEAD
 
 Daniel C. Au
     /'~~~~~~~\|/
@@ -27,10 +26,8 @@ Daniel C. Au
     |\________/|
     \----------/
 
-=======
 again blah blah
 
 Thank you so much
 
 Goddbye
->>>>>>> 8a6ea4cb7c9f508121d1672259e6d040aea0fe31
