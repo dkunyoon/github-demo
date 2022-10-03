@@ -1,27 +1,17 @@
+============
 Chapter 1
+============
 
 Hmm
-blah
-blah blah
+blah.
+blah. blah.
 
 to test github
 saved
 
 Donovan Bake
-       \\||||//
-      =       =    self portrait of
-      | "" "" |        Donovan
-      -<0>^<0>-
- ,-.  |   j   |
-: | :  \ ___ / "PEACE
-`/|\'   \ - /    BRO"
- _______|\_/|_______
-(       \   /       )
-|        \%/        |
-|   |     V     |   |
-|   |       dwb |   |
-|   |           |   |
 
+<<<<<<< HEAD
 
 Daniel C. Au
     /'~~~~~~~\|/
@@ -37,3 +27,10 @@ Daniel C. Au
     |\________/|
     \----------/
 
+=======
+again blah blah
+
+Thank you so much
+
+Goddbye
+>>>>>>> 8a6ea4cb7c9f508121d1672259e6d040aea0fe31
